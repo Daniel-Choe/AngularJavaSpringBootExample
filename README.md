@@ -10,6 +10,8 @@ Direct to /server folder
 Run "mvn spring-boot:run"
 To run the client:
 
+To run the client:
+
 Open a node command prompt
 Direct to /client folder
 Run "ng serve"
