@@ -1,5 +1,5 @@
 # AngularJavaSpringBootExample
-A quick example of a full stack application using Java, Angular 5, and SpringBoot
+A quick example of a full stack application using CRUD with Java, Angular 5, and Maven/SpringBoot
 
 To run this application, please have Maven and Angular set up to run locally.
 
